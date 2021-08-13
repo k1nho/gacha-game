@@ -1,0 +1,10 @@
+Bjarne++	3000	2100	Algoexpert	3	human
+Noober	200	10	none	1	human
+Glacecor	300	50	Freeze	1	demon
+Ignis	1050	450	Burn	2	mage
+Mononoke	1500	500	Underworld	2	demon
+Buster	1450	550	Rapidfire	2	sniper
+Doggow	100	20	none	1	angel
+Denebu	1450	600	Sanctuary	2	angel
+Turtle	500	10	none	1	sniper
+Unewix	400	50	none	1	mage

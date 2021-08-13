@@ -1,0 +1,10 @@
+Guido	3000	2000	Algoexpert	3	human
+Noober	200	10	none	1	human
+Zamazu	550	100	none	1	demon
+Ignis	1050	450	Burn	2	mage
+Beater	1450	800	Tactics	2	human
+Turtle	500	10	none	1	sniper
+Nekomata	1800	600	Rapidfire	2	sniper
+Kaven	1500	500	Sanctuary	2	angel
+Trasher	50	2	none	1	none
+Ononoki	500	300	none	1	demon

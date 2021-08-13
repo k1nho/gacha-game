@@ -1,0 +1,10 @@
+Lain	5000	3000	Protocol 7	3	none
+Noober	200	10	none	1	human
+Ozuras	300	20	none	1	sniper
+HumusHumas	1450	550	Burn	2	mage
+Ixiss	500	100	Freeze	1	mage
+Archaniel	1050	450	none	2	angel
+Aschelato	1500	700	Tactics	2	human
+Thorston	1350	600	Underworld	2	demon
+Zamazu	550	100	none	1	demon
+Doggow	100	20	none	1	angel
