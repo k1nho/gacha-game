@@ -1,0 +1,12 @@
+Demon Lord	10000	1000	Underworld	demon	Dark World	angel
+SlugWings	500	50	none	demon	none	angel
+Doctor Kinho	20000	1500	Tactics	human	The Wired	human
+Pixie Queen	10000	700	Sanctuary	mage	Pixie Land	sniper
+Noobier	200	10	none	human	none	none
+Zambie	3000	400	Burn	demon	none	angel
+KO	1050	4000	none	human	Flammagurr	none
+Shiner	500	500	none	angel	none	demon
+Titaniumite	15000	800	none	mage	Iron Empire	human
+Ezier	100	20	none	human	none	sniper
+Hishishiya	5000	100	Freeze	sniper	none	demon
+Spike	1000	1000	Burn	mage	none	sniper
