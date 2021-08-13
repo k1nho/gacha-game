@@ -1,0 +1,8 @@
+Burn	: Increases the firepower of the user by augmenting its attack by 200
+Freeze	: Inhabilitates the enemy allowing the user to recover 1000 hp	1000
+Tactics	: The ultimate counter ability. Tactics increases the attack of the user by 2000 while dealing 1500 damage	2000
+Protocol 7	: Lain unleashes its full power by increasing its attack stat by 5000 points	5000
+Algoexpert	: The programming master activates its ultimate algorithm to defeat the evil increasing all its stats by 2000 points	2000
+Underworld	: A talent known for the most exceptional demons. Underworld increases the attack of the user by 500 points	500
+Sanctuary	: A talent known for the most exceptional angels. Santuary increases user's hp by 500 points	500
+RapidFire	: A talent known for the most exceptional snipers. RapidFire duplicates the user's damage	2
